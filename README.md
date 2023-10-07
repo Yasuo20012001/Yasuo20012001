@@ -1,16 +1,19 @@
-### Hi there 👋
+### Привет! 👋 Меня зовут Хачатур.
 
 <!--
 **Yasuo20012001/Yasuo20012001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+- 🔭 **Python Developer**
+- 🌱 Мой текущий стек: 
+  - Python 
+  - Django 
+  - DRF (Django Rest Framework) 
+  - PostgreSQL 
+  - Docker 
+  (и многое другое...)
+- 💬 Можете задать мне вопросы о моем опыте и навыках.
+- 📫 Как со мной связаться:
+  - **Телеграм:** [@yasinyan23](https://t.me/yasinyan23)
+  - **Почта:** [xpepanyan@gmail.com](mailto:xpepanyan@gmail.com)
+
